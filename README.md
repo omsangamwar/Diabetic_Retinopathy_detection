@@ -7,3 +7,10 @@ Diabetic retinopathy is a severe eye condition that affects individuals with dia
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+## Dataset
+
+![image](https://github.com/omsangamwar/Repo1/assets/117922569/d882c5f7-0aaa-4867-ad34-496596c51db3)
+
+
+
