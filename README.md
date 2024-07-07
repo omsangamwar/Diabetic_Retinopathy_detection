@@ -13,17 +13,17 @@ Diabetic retinopathy is a severe eye condition that affects individuals with dia
 
 ## Processing 
 
-#### 1) Gaussian Blurr
+### 1) Gaussian Blurr
 
-<img src="https://github.com/omsangamwar/Repo1/assets/117922569/7e499624-aa54-4066-af73-a40e2a9ef836" alt="Gaussian Blurr" width="400"/>
+<img src="https://github.com/omsangamwar/Repo1/assets/117922569/7e499624-aa54-4066-af73-a40e2a9ef836" alt="Gaussian Blurr" width="600"/>
 
-#### 2) Circular Crop 
+### 2) Circular Crop 
 
-<img src="https://github.com/omsangamwar/Repo1/assets/117922569/0a7aecdb-f6cb-4251-9ae3-b966329a7e31" alt="Circular Crop" width="400"/>
+<img src="https://github.com/omsangamwar/Repo1/assets/117922569/0a7aecdb-f6cb-4251-9ae3-b966329a7e31" alt="Circular Crop" width="600"/>
 
-#### Final DataSet
+### Final DataSet
 
-<img src="https://github.com/omsangamwar/Repo1/assets/117922569/482a9436-cbd8-43c2-9daa-62920c26dd0e" alt="Final DataSet" width="400"/>
+<img src="https://github.com/omsangamwar/Repo1/assets/117922569/482a9436-cbd8-43c2-9daa-62920c26dd0e" alt="Final DataSet" width="900"/>
 
 
 
